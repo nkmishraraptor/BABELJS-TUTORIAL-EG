@@ -1,0 +1,14 @@
+npm install-
+Babel cli:
+* --save-dev babel-cli
+Babel preset:
+* 
+Babel core :
+* --save-dev babel-core
+
+TIPS:
+Package.json gives the version details of babeljs used.
+Now,we will write our code in ES6->ES5 or ES7->ES5 also ES7->ES6,etc.
+To provide instructions to Babel on the same,while executing,we need to create a file called .babelrc in the web root folder which contains a json object with all the details.
+
+
